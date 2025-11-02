@@ -42,12 +42,49 @@ Each **Gauntlet 🏆** is a boss-level project that fuses all concepts from that
 
 ---
 
-## 🧱 Repository Architecture
+## Repository Architecture
 
-This repo is a **Learning Monorepo 🌳** — each part is a self-contained lab with detailed notes and working Gauntlet projects.
-
+This is a **Learning Monorepo** — every part is a self-contained lab with detailed notes and full working code for each boss project.
 ```
-the-js-architect-codex/ │ ├── .gitignore ├── README.md                      # 👈 You’re here │ ├── PART_01_THE_ATOMS/ │   ├── README.md                  # Notes 📝 on Atoms ⚛️ │   └── GAUNTLET_PROJECTS/ │ ├── PART_02_THE_LOGIC/ │   ├── README.md                  # Notes 📝 on Closures 🎒 and this 🎭 │   └── GAUNTLET_PROJECTS/ │ ├── ... (and so on for all 8 Parts) │ └── PART_08_THE_OMEGA_ECOSYSTEM/ ├── README.md                  # The Masterpiece 🎨 Documentation 📜 └── packages/ ├── cracked-editor/ ├── cracked-tools/ └── nano-framework/
+the-js-architect-codex/
+│
+├── .gitignore
+├── README.md                           # You're here
+│
+├── PART_01_THE_ATOMS/
+│   ├── README.md                       # Notes on Atoms
+│   └── GAUNTLET_PROJECTS/
+│
+├── PART_02_THE_LOGIC/
+│   ├── README.md                       # Notes on Closures and this
+│   └── GAUNTLET_PROJECTS/
+│
+├── PART_03_THE_FILING_CABINET/
+│   ├── README.md
+│   └── GAUNTLET_PROJECTS/
+│
+├── PART_04_THE_ASYNC_UNIVERSE/
+│   ├── README.md
+│   └── GAUNTLET_PROJECTS/
+│
+├── PART_05_THE_BROWSER_MATRIX/
+│   ├── README.md
+│   └── GAUNTLET_PROJECTS/
+│
+├── PART_06_THE_LANGUAGE_META/
+│   ├── README.md
+│   └── GAUNTLET_PROJECTS/
+│
+├── PART_07_THE_ENGINE_META/
+│   ├── README.md
+│   └── GAUNTLET_PROJECTS/
+│
+└── PART_08_THE_OMEGA_ECOSYSTEM/
+├── README.md                       # The Masterpiece Documentation
+└── packages/
+├── cracked-editor/
+├── cracked-tools/
+└── nano-framework/
 ```
 
 ---
