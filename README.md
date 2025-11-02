@@ -48,7 +48,6 @@ This repo is a **Learning Monorepo 🌳** — each part is a self-contained lab 
 
 ```
 the-js-architect-codex/ │ ├── .gitignore ├── README.md                      # 👈 You’re here │ ├── PART_01_THE_ATOMS/ │   ├── README.md                  # Notes 📝 on Atoms ⚛️ │   └── GAUNTLET_PROJECTS/ │ ├── PART_02_THE_LOGIC/ │   ├── README.md                  # Notes 📝 on Closures 🎒 and this 🎭 │   └── GAUNTLET_PROJECTS/ │ ├── ... (and so on for all 8 Parts) │ └── PART_08_THE_OMEGA_ECOSYSTEM/ ├── README.md                  # The Masterpiece 🎨 Documentation 📜 └── packages/ ├── cracked-editor/ ├── cracked-tools/ └── nano-framework/
-
 ```
 
 ---
